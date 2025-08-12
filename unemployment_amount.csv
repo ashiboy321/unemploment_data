@@ -1,5 +1,5 @@
 TIME,Unemployment rate,Workforce,Amount
-GEO (Labels),2023,,
+geo,2023,,
 Belgium,5.50%,4879000,268345
 Bulgaria,4.30%,3100000,133300
 Czechia,2.60%,5200000,135200
@@ -30,5 +30,6 @@ Sweden,7.70%,5800000,446600
 Iceland,3.50%,220000,7700
 Norway,3.60%,3000000,108000
 Switzerland,4.10%,5548000,227468
+
 
 
